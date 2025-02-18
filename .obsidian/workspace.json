@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "09703498805ecf32",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d4a217bb014624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52feddfe5b51bca3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journey/Data Contracts/1 Get Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1 Get Started"
+            }
+          },
+          {
+            "id": "75b7d6753c16489e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swiffy Notes/Journey notes/Data Contracts/1 Get Started.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 Get Started"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7a64ff289cb7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "beac55385da8cb10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66dec24580fd5ed7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11006ef0bb300c12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3087a0f882127f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "27133966a7e57542",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee6868671d84f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331162cd14cfb0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BFF/Multitenancy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Multitenancy"
+            }
+          },
+          {
+            "id": "b6c40ba585edc096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "e3b7414710709625",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ece7b1a169863685",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "84c01fe73c0405e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "757fc8f30f8a31b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9fd9216ff17c259",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "75b7d6753c16489e",
+  "lastOpenFiles": [
+    "Swiffy Notes/BFF/Multitenancy.md",
+    "Swiffy Notes",
+    "Swiffy Notes/Journey notes/Data Contracts/3 Personal Details.md",
+    "Swiffy Notes/BFF",
+    "Swiffy Notes/Journey notes/Data Contracts/2 GetNext.md",
+    "Swiffy Notes/Journey notes/Data Contracts/6 MF Pledge Funds.md",
+    "Swiffy Notes/Journey notes/Data Contracts/1 Get Started.md",
+    "Swiffy Notes/Journey notes/Data Contracts/7 Kyc Okyc redirect.md",
+    "Swiffy Notes/Journey notes/Data Contracts/4 Los MF Init - OTP for auth.md",
+    "Swiffy Notes/Journey notes/Data Contracts/5 b Invalid OTP.md",
+    "Swiffy Notes/Journey notes/Data Contracts/5 a OTP Validation.md",
+    "Auth Config.md",
+    "Project Structure enhanced.md",
+    "Project Structure.md",
+    "Swiffy Notes/Journey notes/Data Contracts",
+    "Swiffy Notes/Journey notes",
+    "Welcome.md"
+  ]
+}
