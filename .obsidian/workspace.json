@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swiffy Notes/Journey notes/Data Contracts/1 Get Started.md",
+                "file": "Swiffy Notes/Journey notes/Data Contracts/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,11 +44,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Get Started"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "89c145a5d2ac69e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "3f0775cc7ca34bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Development Branching Strategy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website Development Branching Strategy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "27133966a7e57542",
@@ -230,15 +266,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75b7d6753c16489e",
+  "active": "3f0775cc7ca34bc1",
   "lastOpenFiles": [
+    "Website Development Branching Strategy.md",
+    "Swiffy Notes/Journey notes/Data Contracts/1 Get Started.md",
+    "Swiffy Notes/Journey notes/Data Contracts/Untitled.md",
+    "Swiffy Notes/Journey notes/Data Contracts/6 MF Pledge Funds.md",
+    "Swiffy Notes/log",
     "Swiffy Notes/BFF/Multitenancy.md",
     "Swiffy Notes",
     "Swiffy Notes/Journey notes/Data Contracts/3 Personal Details.md",
     "Swiffy Notes/BFF",
     "Swiffy Notes/Journey notes/Data Contracts/2 GetNext.md",
-    "Swiffy Notes/Journey notes/Data Contracts/6 MF Pledge Funds.md",
-    "Swiffy Notes/Journey notes/Data Contracts/1 Get Started.md",
     "Swiffy Notes/Journey notes/Data Contracts/7 Kyc Okyc redirect.md",
     "Swiffy Notes/Journey notes/Data Contracts/4 Los MF Init - OTP for auth.md",
     "Swiffy Notes/Journey notes/Data Contracts/5 b Invalid OTP.md",
